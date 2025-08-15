@@ -147,7 +147,7 @@ coroutine.wrap(function()
 end)()
 Toggle.Size = UDim2.new(0, 20, 0, 20)
 Toggle.ZIndex = 2
-Toggle.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=17124498485"
+Toggle.Image = ""
 
 Base.Name = "Base"
 Base.Parent = Bar
@@ -2024,4 +2024,5 @@ end
 
 
 return library
+
 
